@@ -1,0 +1,22 @@
+.buttons__box {
+    width: 500px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    color: #FFF;
+    font-size: 24px;
+    outline: none;
+    border: none;
+    width: 200px;
+    background: #47b100;
+    padding: 20px;
+}
+
+.minus {
+    background: #9e0000;
+}
